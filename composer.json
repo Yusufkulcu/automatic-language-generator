@@ -3,5 +3,10 @@
     "description": "With this package, you can view all your language files in Laravel and quickly create new language files automatically with the translation system.",
     "require": {
 
+    },
+    "autoload": {
+        "psr-4": {
+            "YusufKulcu\\AutoLanguageGenerator\\" : "src"
+        }
     }
 }
