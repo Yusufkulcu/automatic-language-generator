@@ -1,5 +1,5 @@
 {
-    "name": "yufusphp/automatic-language-generator",
+    "name": "yusufkulcu/automatic-language-generator",
     "description": "With this package, you can view all your language files in Laravel and quickly create new language files automatically with the translation system.",
     "require": {
 
